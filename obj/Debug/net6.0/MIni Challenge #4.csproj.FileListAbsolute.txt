@@ -1,0 +1,15 @@
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/bin/Debug/net6.0/MIni Challenge #4
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/bin/Debug/net6.0/MIni Challenge #4.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/bin/Debug/net6.0/MIni Challenge #4.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/bin/Debug/net6.0/MIni Challenge #4.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/bin/Debug/net6.0/MIni Challenge #4.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/MIni Challenge #4.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/MIni Challenge #4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/MIni Challenge #4.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/MIni Challenge #4.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/MIni Challenge #4.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/MIni Challenge #4.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/refint/MIni Challenge #4.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/MIni Challenge #4.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/MIni Challenge #4.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/AmirsGreaterthanLessThan/GreaterThanorLessThan/obj/Debug/net6.0/ref/MIni Challenge #4.dll

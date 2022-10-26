@@ -1,4 +1,5 @@
-﻿
+﻿//Peer reviewed by: Valerie
+//Comment: Works great!
 
 int num1;
 int num2;
